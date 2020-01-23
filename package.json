@@ -1,0 +1,10 @@
+{
+  "name": "@react-corekit/sleep",
+  "version": "1.0.0",
+  "description": " Async/await timeout  delay",
+  "main": "index.js",
+  "repository": "https://github.com/react-corekit/sleep.git",
+  "author": "glongh <glongh@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
