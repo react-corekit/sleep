@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": " Async/await timeout  delay",
   "main": "index.js",
-  "repository": "https://github.com/react-corekit/sleep.git",
-  "author": "glongh <glongh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-corekit/sleep.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "glongh",
   "license": "MIT",
   "private": false
 }
