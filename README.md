@@ -1,6 +1,7 @@
 # @react-corekit/sleep
 
-> Non blocking asynchronous sleep. Due the nature of javascript an the event loops, it's only suspends the current function execution. It does not pause the entire program execution.
+> Non blocking asynchronous sleep.
+> Due the nature of javascript an the event loop, it suspends the current function execution only. It does not pause the entire program execution.
 
 [![NPM](https://img.shields.io/npm/v/@react-corekit/sleep.svg)](https://www.npmjs.com/package/@react-corekit/sleep)
 
