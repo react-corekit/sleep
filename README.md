@@ -27,3 +27,17 @@ sleep(n).then(() => {
   // Do something
 });
 ```
+
+## Usage
+
+```js
+import sleep from '@react-corekit/sleep';
+
+async function run() {
+  /* wait one second before 
+      contitue this function execution */
+  await sleep(1000);
+}
+
+run();
+```
