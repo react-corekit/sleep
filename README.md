@@ -41,3 +41,15 @@ async function run() {
 
 run();
 ```
+
+## Additional documentation
+
+[The setTimeout() method](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+
+[Async functions - making promises friendly](https://developers.google.com/web/fundamentals/primers/async-functions)
+
+[The basics of async/await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+
+## License
+
+MIT © [glongh](https://github.com/glongh)
