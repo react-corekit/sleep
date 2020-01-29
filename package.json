@@ -1,7 +1,7 @@
 {
   "name": "@react-corekit/sleep",
   "version": "1.0.0",
-  "description": " Async/await timeout  delay",
+  "description": "Async/await timeout delay",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,5 +16,15 @@
   "private": false,
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "keywords": [
+    "timeout",
+    "async",
+    "Hooks",
+    "sleep",
+    "async sleep",
+    "Javascript",
+    "node",
+    "React"
+  ]
 }
